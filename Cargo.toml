@@ -1,0 +1,9 @@
+[package]
+name = "stegfile"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha256 = "1.6.0"
+rand = "0.9.1"
+ndarray = "0.16.1"
